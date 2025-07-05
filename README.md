@@ -1,6 +1,6 @@
-# AIFoodPrintCleaner
+# AIFootPrintCleaner
 
-**AIFoodPrintCleaner** is a lightweight CLI tool that removes invisible Unicode characters, control codes, and non-printable artifacts commonly introduced by AI assistants like ChatGPT, Copilot, and others.
+**AIFootPrintCleaner** is a lightweight CLI tool that removes invisible Unicode characters, control codes, and non-printable artifacts commonly introduced by AI assistants like ChatGPT, Copilot, and others.
 
 > Works recursively over any directory and supports `.py`, `.js`, `.cpp`, `.html`, and other source code formats.
 
